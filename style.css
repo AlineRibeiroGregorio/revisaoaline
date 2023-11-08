@@ -16,3 +16,7 @@ p{
     font-size: 18px;
     color: blue;
 }
+
+img{
+    border: solid 2px white;
+}
